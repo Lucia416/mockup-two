@@ -1,3 +1,11 @@
+
+# Intro to our app
+![](https://media.giphy.com/media/3og0IuWWf20zZiUkda/giphy-downsized-large.gif)
+
+![](https://media.giphy.com/media/xUA7aV0KMlW3azoVtC/giphy-downsized-large.gif) 
+
+![](https://media.giphy.com/media/3oKIPcteDCr6buSTm0/giphy.gif)
+
 # Node Skeleton
 
 ## Project Setup
@@ -28,10 +36,3 @@
 - Node 5.10.x or above
 - NPM 3.8.x or above
 
-##Little intro to our app
-
-![](https://media.giphy.com/media/3oKIPehLLX9gfa9R96/giphy.gif)
-
-![](https://media.giphy.com/media/3oKIPcTHWsua7doPLy/giphy.gif) 
-
-![](https://media.giphy.com/media/3oKIPcteDCr6buSTm0/giphy.gif)
